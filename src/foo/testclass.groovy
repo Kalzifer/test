@@ -5,7 +5,7 @@ def hello (){
     echo "bla"
 }
 
-class Example {
+class testclass {
    static def DisplayName() {
        echo "test"
    } 
