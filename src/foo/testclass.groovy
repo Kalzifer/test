@@ -1,7 +1,7 @@
 package foo
 
 class testclass {
-   static def DisplayName() {
-       echo "test"
+   static def DisplayName(script) {
+        script.echo "test"
    } 
 }
