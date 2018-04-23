@@ -2,6 +2,6 @@ package foo
 
 class testclass {
    static def DisplayName(script) {
-        script.echo "test"
+        script.libraryResource "python/test.py"
    } 
 }
