@@ -1,4 +1,4 @@
-NonCPS
+@NonCPS
 class Example {
    static def DisplayName() {
       println("This is how methods work in groovy");
