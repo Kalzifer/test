@@ -1,11 +1,6 @@
 package foo
 
-
-def hello (){
-    echo "bla"
-}
-
-class myclass {
+class testclass {
    static def DisplayName() {
        echo "test"
    } 
