@@ -1,7 +1,7 @@
 package foo
 
 class testclass {
-   static def DisplayName() {
+   static def DisplayName {
        echo "test"
    } 
 }
