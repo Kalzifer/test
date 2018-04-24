@@ -1,0 +1,9 @@
+HELLO
+========================================
+Is a Hello World documation thing
+
+
+Using this Hello World
+----------------------------------------
+
+hello.world()
